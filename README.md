@@ -16,7 +16,7 @@ banking apps with Guardsquare **DexGuard** & **iXGuard**.
 - **wondr by BNI** — VIPER · multi-repo modular architecture (per-feature module repos + shared Core) · Kingfisher · XcodeGen · Quick & Nimble · banking super-app serving millions
 - **MyBluebird** — MVVM · RxSwift · Moya · Factory pattern · modular monorepo (each module its own Xcode project) · ride-hailing & transportation
 
-**Open source & personal**
+**Personal**
 
 - **[DNLibrary](https://github.com/Fostahh/DNLibrary)** → **[SPMDNLibrary](https://github.com/Fostahh/SPMDNLibrary)** — Kotlin Multiplatform shared data layer → Android AAR + iOS XCFramework → published remote Swift Package (consumed by DapurNaura on iOS)
 - **[MovieDB](https://github.com/Fostahh/MovieDB)** & **[MovieDBDataLayer](https://github.com/Fostahh/MovieDBDataLayer)** — UIKit · VIPER app + modular data-layer Swift Package · Kingfisher · Swift Testing
