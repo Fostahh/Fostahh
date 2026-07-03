@@ -5,7 +5,7 @@
 3+ years across iOS & Android. Now specializing in mobile app security — hardening 20+ BRI
 banking apps with Guardsquare **DexGuard** & **iXGuard**.
 
-> ⭐ **What I'm proud of:** I built **[DNLibrary](https://github.com/Fostahh/DNLibrary)**, a **Kotlin Multiplatform** shared data
+> ⭐ **What I'm proud of:** I built **[DNLibrary](https://github.com/Fostahh/DNLibrary)** **(Still in-progress)**, a **Kotlin Multiplatform** shared data
 > layer (Ktor · kotlinx.serialization · Coroutines/Flow) that exports as both an **Android AAR** and
 > an **iOS XCFramework**, published as a **versioned remote Swift Package** (binary target + checksum,
 > v1.4.0 via GitHub Releases). And I proved it end-to-end: my SwiftUI app **DapurNaura consumes it on
